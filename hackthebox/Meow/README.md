@@ -26,7 +26,7 @@ The server accepts the connection, and is going to prompt us for a username to l
 At this point, we are connected to the machine as root.
 Running `whoami` confirms this by returning `root`.
 
-We can now use `ls` to show the content of the current directory, then we'll see a file named `flag.txt`, then we can print its content with the command `cat flag.txt`, obtaining the root flag and completing the machine.
+We can now use `ls` to show the content of the current directory, then we'll see a file named `flag.txt`, and finally, we can print its content with the command `cat flag.txt`, obtaining the root flag and completing the machine.
 
 ![alt text](image-2.png)
 
